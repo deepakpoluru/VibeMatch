@@ -1,0 +1,6 @@
+{
+  "name": "VibeMatch — Cultural Taste Intelligence & Agentic Date Planner",
+  "description": "Production submission for the Qloo Agentic Hackathon, uniting Qloo's 250M+ entity taste graph with autonomous reasoning to solve LLM cultural blindness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
